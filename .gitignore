@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Cypress arquivos gerados
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Arquivos de ambiente/sensíveis
+.env
+cypress.env.json
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
